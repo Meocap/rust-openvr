@@ -1,5 +1,5 @@
 [registries]
-Kesong = { index = "sparse+https://pkgs.dev.azure.com/Kesong/_packaging/Kesong/Cargo/index/" }
+Meocap = { index = "sparse+https://pkgs.dev.azure.com/Meocap/_packaging/Meocap/Cargo/index/" }
 
 [registry]
 global-credential-providers = ["cargo:token", "cargo:libsecret"]
